@@ -3,7 +3,7 @@ A multiPlayer Clicker Game , That is run with CloudLink , you run the game on ht
 
 to start the server go to https://replit.com/@showierdata9978/Showiers-CloudLink-Server?v=1 
 
-#dependencys 
+# dependencys 
 Cloudlink 
 Websocket-client (for cl)
 websocket-server(for cl)
