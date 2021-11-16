@@ -5,7 +5,11 @@ to start the server go to https://replit.com/@showierdata9978/Showiers-CloudLink
 
 # dependencys 
 Cloudlink 
+
 Websocket-client (for cl)
+
 websocket-server(for cl)
+
 websocket(for cl)
-modded scrach 
+
+modded scrach (runs cloudlink)
